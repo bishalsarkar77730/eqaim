@@ -1,0 +1,10 @@
+.foot{
+    margin-top: 20%;
+}
+
+.box-body{
+    margin-top: 10px;
+    background-color: aliceblue;
+    padding: 30px 30px 10px 30px;
+    border-radius: 10px;
+}
